@@ -1,0 +1,709 @@
+<rsp stat="ok">
+<stats type="array"><stat type="struct"><date>2012-11-07</date>
+<source>0</source>
+<clicks>256</clicks>
+<conversions>112</conversions>
+<payout>68.10000</payout>
+<erpc>0.2660</erpc>
+<cpl>0.608035714</cpl>
+</stat><stat type="struct"><date>2012-11-06</date>
+<source>0</source>
+<clicks>5552</clicks>
+<conversions>2380</conversions>
+<payout>1485.50000</payout>
+<erpc>0.2676</erpc>
+<cpl>0.624159663</cpl>
+</stat><stat type="struct"><date>2012-11-05</date>
+<source>0</source>
+<clicks>5609</clicks>
+<conversions>2337</conversions>
+<payout>1446.30000</payout>
+<erpc>0.2579</erpc>
+<cpl>0.618870346</cpl>
+</stat><stat type="struct"><date>2012-11-05</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-11-04</date>
+<source>0</source>
+<clicks>3861</clicks>
+<conversions>1685</conversions>
+<payout>1048.30000</payout>
+<erpc>0.2715</erpc>
+<cpl>0.622136498</cpl>
+</stat><stat type="struct"><date>2012-11-03</date>
+<source>0</source>
+<clicks>2362</clicks>
+<conversions>955</conversions>
+<payout>584.45000</payout>
+<erpc>0.2474</erpc>
+<cpl>0.611989528</cpl>
+</stat><stat type="struct"><date>2012-11-03</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-11-02</date>
+<source>0</source>
+<clicks>3422</clicks>
+<conversions>1516</conversions>
+<payout>954.75000</payout>
+<erpc>0.2790</erpc>
+<cpl>0.629782321</cpl>
+</stat><stat type="struct"><date>2012-11-01</date>
+<source>0</source>
+<clicks>3786</clicks>
+<conversions>1705</conversions>
+<payout>1053.90000</payout>
+<erpc>0.2784</erpc>
+<cpl>0.618123167</cpl>
+</stat><stat type="struct"><date>2012-10-31</date>
+<source>0</source>
+<clicks>3569</clicks>
+<conversions>1614</conversions>
+<payout>1000.30000</payout>
+<erpc>0.2803</erpc>
+<cpl>0.619764560</cpl>
+</stat><stat type="struct"><date>2012-10-31</date>
+<source>0/</source>
+<clicks>2</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-30</date>
+<source>0</source>
+<clicks>4535</clicks>
+<conversions>2040</conversions>
+<payout>1277.15000</payout>
+<erpc>0.2816</erpc>
+<cpl>0.626053921</cpl>
+</stat><stat type="struct"><date>2012-10-30</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-29</date>
+<source>0</source>
+<clicks>5557</clicks>
+<conversions>2545</conversions>
+<payout>1601.65000</payout>
+<erpc>0.2882</erpc>
+<cpl>0.629332023</cpl>
+</stat><stat type="struct"><date>2012-10-29</date>
+<source>0/</source>
+<clicks>2</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-28</date>
+<source>0</source>
+<clicks>4183</clicks>
+<conversions>1885</conversions>
+<payout>1180.00000</payout>
+<erpc>0.2821</erpc>
+<cpl>0.625994694</cpl>
+</stat><stat type="struct"><date>2012-10-27</date>
+<source>0</source>
+<clicks>2234</clicks>
+<conversions>988</conversions>
+<payout>603.35000</payout>
+<erpc>0.2701</erpc>
+<cpl>0.610678137</cpl>
+</stat><stat type="struct"><date>2012-10-27</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-26</date>
+<source>0</source>
+<clicks>3936</clicks>
+<conversions>1737</conversions>
+<payout>1080.65000</payout>
+<erpc>0.2746</erpc>
+<cpl>0.622135866</cpl>
+</stat><stat type="struct"><date>2012-10-26</date>
+<source>0/</source>
+<clicks>3</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-25</date>
+<source>0</source>
+<clicks>3475</clicks>
+<conversions>1561</conversions>
+<payout>978.80000</payout>
+<erpc>0.2817</erpc>
+<cpl>0.627033952</cpl>
+</stat><stat type="struct"><date>2012-10-24</date>
+<source>0</source>
+<clicks>3871</clicks>
+<conversions>1675</conversions>
+<payout>1024.35000</payout>
+<erpc>0.2646</erpc>
+<cpl>0.611552238</cpl>
+</stat><stat type="struct"><date>2012-10-24</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-23</date>
+<source>0</source>
+<clicks>3738</clicks>
+<conversions>1590</conversions>
+<payout>974.60000</payout>
+<erpc>0.2607</erpc>
+<cpl>0.612955974</cpl>
+</stat><stat type="struct"><date>2012-10-23</date>
+<source>0/</source>
+<clicks>2</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-22</date>
+<source>0</source>
+<clicks>4271</clicks>
+<conversions>1930</conversions>
+<payout>1188.65000</payout>
+<erpc>0.2783</erpc>
+<cpl>0.615880829</cpl>
+</stat><stat type="struct"><date>2012-10-21</date>
+<source>0</source>
+<clicks>2729</clicks>
+<conversions>1224</conversions>
+<payout>753.60000</payout>
+<erpc>0.2761</erpc>
+<cpl>0.615686274</cpl>
+</stat><stat type="struct"><date>2012-10-20</date>
+<source>0</source>
+<clicks>2585</clicks>
+<conversions>1209</conversions>
+<payout>745.50000</payout>
+<erpc>0.2884</erpc>
+<cpl>0.616625310</cpl>
+</stat><stat type="struct"><date>2012-10-19</date>
+<source>0</source>
+<clicks>4593</clicks>
+<conversions>2166</conversions>
+<payout>1344.50000</payout>
+<erpc>0.2927</erpc>
+<cpl>0.620729455</cpl>
+</stat><stat type="struct"><date>2012-10-19</date>
+<source>0/</source>
+<clicks>3</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-18</date>
+<source>0</source>
+<clicks>3819</clicks>
+<conversions>1716</conversions>
+<payout>1057.15000</payout>
+<erpc>0.2768</erpc>
+<cpl>0.616054778</cpl>
+</stat><stat type="struct"><date>2012-10-18</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-17</date>
+<source>0</source>
+<clicks>4039</clicks>
+<conversions>1786</conversions>
+<payout>1101.50000</payout>
+<erpc>0.2727</erpc>
+<cpl>0.616741321</cpl>
+</stat><stat type="struct"><date>2012-10-17</date>
+<source>0/</source>
+<clicks>3</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-16</date>
+<source>0</source>
+<clicks>5209</clicks>
+<conversions>2286</conversions>
+<payout>1418.30000</payout>
+<erpc>0.2723</erpc>
+<cpl>0.620428696</cpl>
+</stat><stat type="struct"><date>2012-10-16</date>
+<source>0/</source>
+<clicks>3</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-15</date>
+<source>0</source>
+<clicks>5851</clicks>
+<conversions>2538</conversions>
+<payout>1566.00000</payout>
+<erpc>0.2676</erpc>
+<cpl>0.617021276</cpl>
+</stat><stat type="struct"><date>2012-10-15</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-14</date>
+<source>0</source>
+<clicks>3915</clicks>
+<conversions>1699</conversions>
+<payout>1051.70000</payout>
+<erpc>0.2686</erpc>
+<cpl>0.619011183</cpl>
+</stat><stat type="struct"><date>2012-10-13</date>
+<source>0</source>
+<clicks>2466</clicks>
+<conversions>1100</conversions>
+<payout>684.80000</payout>
+<erpc>0.2777</erpc>
+<cpl>0.622545454</cpl>
+</stat><stat type="struct"><date>2012-10-12</date>
+<source>0</source>
+<clicks>2500</clicks>
+<conversions>1098</conversions>
+<payout>675.35000</payout>
+<erpc>0.2701</erpc>
+<cpl>0.615072859</cpl>
+</stat><stat type="struct"><date>2012-10-11</date>
+<source>0</source>
+<clicks>981</clicks>
+<conversions>411</conversions>
+<payout>251.95000</payout>
+<erpc>0.2568</erpc>
+<cpl>0.613017031</cpl>
+</stat><stat type="struct"><date>2012-10-10</date>
+<source>0</source>
+<clicks>2895</clicks>
+<conversions>1264</conversions>
+<payout>775.45000</payout>
+<erpc>0.2679</erpc>
+<cpl>0.613488924</cpl>
+</stat><stat type="struct"><date>2012-10-09</date>
+<source>0</source>
+<clicks>2290</clicks>
+<conversions>991</conversions>
+<payout>608.40000</payout>
+<erpc>0.2657</erpc>
+<cpl>0.613925327</cpl>
+</stat><stat type="struct"><date>2012-10-09</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-08</date>
+<source>0</source>
+<clicks>3305</clicks>
+<conversions>1311</conversions>
+<payout>803.40000</payout>
+<erpc>0.2431</erpc>
+<cpl>0.612814645</cpl>
+</stat><stat type="struct"><date>2012-10-08</date>
+<source>0/</source>
+<clicks>2</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-07</date>
+<source></source>
+<clicks>0</clicks>
+<conversions>1</conversions>
+<payout>0.60000</payout>
+<erpc>0.0000</erpc>
+<cpl>0.600000000</cpl>
+</stat><stat type="struct"><date>2012-10-07</date>
+<source>0</source>
+<clicks>2886</clicks>
+<conversions>1174</conversions>
+<payout>716.10000</payout>
+<erpc>0.2481</erpc>
+<cpl>0.609965928</cpl>
+</stat><stat type="struct"><date>2012-10-07</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-07</date>
+<source>0///</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-06</date>
+<source>0</source>
+<clicks>2133</clicks>
+<conversions>925</conversions>
+<payout>567.60000</payout>
+<erpc>0.2661</erpc>
+<cpl>0.613621621</cpl>
+</stat><stat type="struct"><date>2012-10-05</date>
+<source>0</source>
+<clicks>2742</clicks>
+<conversions>1189</conversions>
+<payout>736.65000</payout>
+<erpc>0.2687</erpc>
+<cpl>0.619554247</cpl>
+</stat><stat type="struct"><date>2012-10-04</date>
+<source>0</source>
+<clicks>3842</clicks>
+<conversions>1665</conversions>
+<payout>1046.60000</payout>
+<erpc>0.2724</erpc>
+<cpl>0.628588588</cpl>
+</stat><stat type="struct"><date>2012-10-03</date>
+<source>0</source>
+<clicks>3396</clicks>
+<conversions>1480</conversions>
+<payout>920.40000</payout>
+<erpc>0.2710</erpc>
+<cpl>0.621891891</cpl>
+</stat><stat type="struct"><date>2012-10-03</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-02</date>
+<source>0</source>
+<clicks>2893</clicks>
+<conversions>1199</conversions>
+<payout>734.45000</payout>
+<erpc>0.2539</erpc>
+<cpl>0.612552126</cpl>
+</stat><stat type="struct"><date>2012-10-02</date>
+<source>0/</source>
+<clicks>2</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-10-01</date>
+<source>0</source>
+<clicks>2968</clicks>
+<conversions>1277</conversions>
+<payout>782.05000</payout>
+<erpc>0.2635</erpc>
+<cpl>0.612411902</cpl>
+</stat><stat type="struct"><date>2012-09-30</date>
+<source>0</source>
+<clicks>2436</clicks>
+<conversions>1038</conversions>
+<payout>639.80000</payout>
+<erpc>0.2626</erpc>
+<cpl>0.616377649</cpl>
+</stat><stat type="struct"><date>2012-09-30</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-29</date>
+<source>0</source>
+<clicks>2297</clicks>
+<conversions>982</conversions>
+<payout>603.85000</payout>
+<erpc>0.2629</erpc>
+<cpl>0.614918533</cpl>
+</stat><stat type="struct"><date>2012-09-29</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-28</date>
+<source>0</source>
+<clicks>2916</clicks>
+<conversions>1266</conversions>
+<payout>779.40000</payout>
+<erpc>0.2673</erpc>
+<cpl>0.615639810</cpl>
+</stat><stat type="struct"><date>2012-09-28</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-27</date>
+<source>0</source>
+<clicks>3040</clicks>
+<conversions>1301</conversions>
+<payout>803.70000</payout>
+<erpc>0.2644</erpc>
+<cpl>0.617755572</cpl>
+</stat><stat type="struct"><date>2012-09-26</date>
+<source>0</source>
+<clicks>2697</clicks>
+<conversions>1062</conversions>
+<payout>666.75000</payout>
+<erpc>0.2472</erpc>
+<cpl>0.627824858</cpl>
+</stat><stat type="struct"><date>2012-09-26</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-25</date>
+<source>0</source>
+<clicks>2251</clicks>
+<conversions>697</conversions>
+<payout>472.70000</payout>
+<erpc>0.2100</erpc>
+<cpl>0.678192252</cpl>
+</stat><stat type="struct"><date>2012-09-24</date>
+<source>0</source>
+<clicks>2423</clicks>
+<conversions>529</conversions>
+<payout>400.05000</payout>
+<erpc>0.1651</erpc>
+<cpl>0.756238185</cpl>
+</stat><stat type="struct"><date>2012-09-23</date>
+<source>0</source>
+<clicks>2239</clicks>
+<conversions>367</conversions>
+<payout>228.90000</payout>
+<erpc>0.1022</erpc>
+<cpl>0.623705722</cpl>
+</stat><stat type="struct"><date>2012-09-22</date>
+<source>0</source>
+<clicks>1874</clicks>
+<conversions>817</conversions>
+<payout>505.05000</payout>
+<erpc>0.2695</erpc>
+<cpl>0.618176254</cpl>
+</stat><stat type="struct"><date>2012-09-21</date>
+<source>0</source>
+<clicks>2498</clicks>
+<conversions>1060</conversions>
+<payout>648.80000</payout>
+<erpc>0.2597</erpc>
+<cpl>0.612075471</cpl>
+</stat><stat type="struct"><date>2012-09-20</date>
+<source>0</source>
+<clicks>2882</clicks>
+<conversions>1135</conversions>
+<payout>693.85000</payout>
+<erpc>0.2408</erpc>
+<cpl>0.611321585</cpl>
+</stat><stat type="struct"><date>2012-09-19</date>
+<source>0</source>
+<clicks>2665</clicks>
+<conversions>1134</conversions>
+<payout>693.45000</payout>
+<erpc>0.2602</erpc>
+<cpl>0.611507936</cpl>
+</stat><stat type="struct"><date>2012-09-19</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-18</date>
+<source>0</source>
+<clicks>2994</clicks>
+<conversions>1216</conversions>
+<payout>743.45000</payout>
+<erpc>0.2483</erpc>
+<cpl>0.611389802</cpl>
+</stat><stat type="struct"><date>2012-09-17</date>
+<source>0</source>
+<clicks>3663</clicks>
+<conversions>1508</conversions>
+<payout>929.10000</payout>
+<erpc>0.2536</erpc>
+<cpl>0.616114058</cpl>
+</stat><stat type="struct"><date>2012-09-17</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-16</date>
+<source>0</source>
+<clicks>1940</clicks>
+<conversions>804</conversions>
+<payout>495.55000</payout>
+<erpc>0.2554</erpc>
+<cpl>0.616355721</cpl>
+</stat><stat type="struct"><date>2012-09-15</date>
+<source>0</source>
+<clicks>2101</clicks>
+<conversions>972</conversions>
+<payout>605.20000</payout>
+<erpc>0.2881</erpc>
+<cpl>0.622633744</cpl>
+</stat><stat type="struct"><date>2012-09-14</date>
+<source>0</source>
+<clicks>1858</clicks>
+<conversions>755</conversions>
+<payout>460.85000</payout>
+<erpc>0.2480</erpc>
+<cpl>0.610397350</cpl>
+</stat><stat type="struct"><date>2012-09-14</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-13</date>
+<source>0</source>
+<clicks>2388</clicks>
+<conversions>1030</conversions>
+<payout>630.35000</payout>
+<erpc>0.2640</erpc>
+<cpl>0.611990291</cpl>
+</stat><stat type="struct"><date>2012-09-12</date>
+<source>0</source>
+<clicks>3247</clicks>
+<conversions>1399</conversions>
+<payout>857.80000</payout>
+<erpc>0.2642</erpc>
+<cpl>0.613152251</cpl>
+</stat><stat type="struct"><date>2012-09-12</date>
+<source>0/</source>
+<clicks>2</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-11</date>
+<source>0</source>
+<clicks>4132</clicks>
+<conversions>1788</conversions>
+<payout>1115.60000</payout>
+<erpc>0.2700</erpc>
+<cpl>0.623937360</cpl>
+</stat><stat type="struct"><date>2012-09-11</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-10</date>
+<source>0</source>
+<clicks>2606</clicks>
+<conversions>1150</conversions>
+<payout>697.35000</payout>
+<erpc>0.2676</erpc>
+<cpl>0.606391304</cpl>
+</stat><stat type="struct"><date>2012-09-09</date>
+<source>0</source>
+<clicks>2072</clicks>
+<conversions>866</conversions>
+<payout>523.40000</payout>
+<erpc>0.2526</erpc>
+<cpl>0.604387990</cpl>
+</stat><stat type="struct"><date>2012-09-09</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-08</date>
+<source>0</source>
+<clicks>2647</clicks>
+<conversions>1124</conversions>
+<payout>679.25000</payout>
+<erpc>0.2566</erpc>
+<cpl>0.604314946</cpl>
+</stat><stat type="struct"><date>2012-09-08</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-07</date>
+<source>0</source>
+<clicks>2071</clicks>
+<conversions>833</conversions>
+<payout>505.65000</payout>
+<erpc>0.2442</erpc>
+<cpl>0.607022809</cpl>
+</stat><stat type="struct"><date>2012-09-06</date>
+<source>0</source>
+<clicks>2945</clicks>
+<conversions>1141</conversions>
+<payout>692.35000</payout>
+<erpc>0.2351</erpc>
+<cpl>0.606792287</cpl>
+</stat><stat type="struct"><date>2012-09-05</date>
+<source>0</source>
+<clicks>2752</clicks>
+<conversions>1117</conversions>
+<payout>674.55000</payout>
+<erpc>0.2451</erpc>
+<cpl>0.603894359</cpl>
+</stat><stat type="struct"><date>2012-09-04</date>
+<source>0</source>
+<clicks>3120</clicks>
+<conversions>1226</conversions>
+<payout>741.20000</payout>
+<erpc>0.2376</erpc>
+<cpl>0.604567699</cpl>
+</stat><stat type="struct"><date>2012-09-04</date>
+<source>0/</source>
+<clicks>1</clicks>
+<conversions>0</conversions>
+<payout>0.00000</payout>
+<erpc>0.0000</erpc>
+<cpl>0</cpl>
+</stat><stat type="struct"><date>2012-09-03</date>
+<source>0</source>
+<clicks>2208</clicks>
+<conversions>887</conversions>
+<payout>541.05000</payout>
+<erpc>0.2450</erpc>
+<cpl>0.609977452</cpl>
+</stat><stat type="struct"><date>2012-09-02</date>
+<source>0</source>
+<clicks>2021</clicks>
+<conversions>824</conversions>
+<payout>497.30000</payout>
+<erpc>0.2461</erpc>
+<cpl>0.603519417</cpl>
+</stat><stat type="struct"><date>2012-09-01</date>
+<source>0</source>
+<clicks>1897</clicks>
+<conversions>780</conversions>
+<payout>470.95000</payout>
+<erpc>0.2483</erpc>
+<cpl>0.603782051</cpl>
+</stat></stats></rsp>

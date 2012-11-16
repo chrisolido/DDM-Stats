@@ -1,0 +1,107 @@
+<rsp stat="ok">
+<stats type="array"><stat type="struct"><week>201242</week>
+<date>2012-10-15</date>
+<clicks>5852</clicks>
+<conversions>2538</conversions>
+<payout>1566.00000</payout>
+<erpc>0.2676</erpc>
+<cpl>0.617021276</cpl>
+</stat><stat type="struct"><week>201241</week>
+<date>2012-10-14</date>
+<clicks>3915</clicks>
+<conversions>1699</conversions>
+<payout>1051.70000</payout>
+<erpc>0.2686</erpc>
+<cpl>0.619011183</cpl>
+</stat><stat type="struct"><week>201241</week>
+<date>2012-10-13</date>
+<clicks>2466</clicks>
+<conversions>1100</conversions>
+<payout>684.80000</payout>
+<erpc>0.2777</erpc>
+<cpl>0.622545454</cpl>
+</stat><stat type="struct"><week>201241</week>
+<date>2012-10-12</date>
+<clicks>2500</clicks>
+<conversions>1098</conversions>
+<payout>675.35000</payout>
+<erpc>0.2701</erpc>
+<cpl>0.615072859</cpl>
+</stat><stat type="struct"><week>201241</week>
+<date>2012-10-11</date>
+<clicks>981</clicks>
+<conversions>411</conversions>
+<payout>251.95000</payout>
+<erpc>0.2568</erpc>
+<cpl>0.613017031</cpl>
+</stat><stat type="struct"><week>201241</week>
+<date>2012-10-10</date>
+<clicks>2895</clicks>
+<conversions>1264</conversions>
+<payout>775.45000</payout>
+<erpc>0.2679</erpc>
+<cpl>0.613488924</cpl>
+</stat><stat type="struct"><week>201241</week>
+<date>2012-10-09</date>
+<clicks>2291</clicks>
+<conversions>991</conversions>
+<payout>608.40000</payout>
+<erpc>0.2656</erpc>
+<cpl>0.613925327</cpl>
+</stat><stat type="struct"><week>201241</week>
+<date>2012-10-08</date>
+<clicks>3307</clicks>
+<conversions>1311</conversions>
+<payout>803.40000</payout>
+<erpc>0.2429</erpc>
+<cpl>0.612814645</cpl>
+</stat><stat type="struct"><week>201240</week>
+<date>2012-10-07</date>
+<clicks>2888</clicks>
+<conversions>1175</conversions>
+<payout>716.70000</payout>
+<erpc>0.2482</erpc>
+<cpl>0.609957446</cpl>
+</stat><stat type="struct"><week>201240</week>
+<date>2012-10-06</date>
+<clicks>2133</clicks>
+<conversions>925</conversions>
+<payout>567.60000</payout>
+<erpc>0.2661</erpc>
+<cpl>0.613621621</cpl>
+</stat><stat type="struct"><week>201240</week>
+<date>2012-10-05</date>
+<clicks>2742</clicks>
+<conversions>1189</conversions>
+<payout>736.65000</payout>
+<erpc>0.2687</erpc>
+<cpl>0.619554247</cpl>
+</stat><stat type="struct"><week>201240</week>
+<date>2012-10-04</date>
+<clicks>3842</clicks>
+<conversions>1665</conversions>
+<payout>1046.60000</payout>
+<erpc>0.2724</erpc>
+<cpl>0.628588588</cpl>
+</stat><stat type="struct"><week>201240</week>
+<date>2012-10-03</date>
+<clicks>3397</clicks>
+<conversions>1480</conversions>
+<payout>920.40000</payout>
+<erpc>0.2709</erpc>
+<cpl>0.621891891</cpl>
+</stat><stat type="struct"><week>201240</week>
+<date>2012-10-02</date>
+<clicks>2895</clicks>
+<conversions>1199</conversions>
+<payout>734.45000</payout>
+<erpc>0.2537</erpc>
+<cpl>0.612552126</cpl>
+</stat><stat type="struct"><week>201240</week>
+<date>2012-10-01</date>
+<clicks>2968</clicks>
+<conversions>1277</conversions>
+<payout>782.05000</payout>
+<erpc>0.2635</erpc>
+<cpl>0.612411902</cpl>
+</stat></stats></rsp>
